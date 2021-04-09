@@ -1,0 +1,9 @@
+history/
+
+schedules/
+
+.telemetry/
+
+*logs/
+
+*__pycache__/
